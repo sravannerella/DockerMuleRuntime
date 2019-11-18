@@ -1,5 +1,4 @@
 FROM java:openjdk-8-jdk
-MAINTAINER sweraj81
 
 ENV MULE_HOME /opt/mule
 
